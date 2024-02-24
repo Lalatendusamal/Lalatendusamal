@@ -1,4 +1,4 @@
-![logo](https://github.com/Lalatendusamal/Lalatendusamal/blob/main/COMPUTER%20SCIENCE%20ENGINEER.mp4)
+![logo](https://github.com/Lalatendusamal/Lalatendusamal/blob/main/COMPUTER%20SCIENCE%20ENGINEER.png)
 <h2 align="center">Hi 👋,I'm Lalatendu Bidyadhar samal</h2>
 <h3 align="center">I'm a Machine Learning Engineer</h3>
 
